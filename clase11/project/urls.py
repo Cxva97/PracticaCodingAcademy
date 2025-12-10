@@ -23,3 +23,5 @@ urlpatterns = [
     path('blog/', include('blog.urls'))
     
 ]
+
+#hola
